@@ -16,7 +16,7 @@ Ce fichier README.md présente les fonctionnalités requises et l'interface util
 * Développeurs
   * NEUSSI JIETCHEU PATRICE EUGENE : [lien vers son github](https://github.com/PatriceNEUSSIofficiel)
   * LONTSI LAMBOU RONALDINO : [lien vers son github](https://github.com/LLontsi/)
-  * NGUEGHO TIODONG ROBERTO LANDRY : [lien vers son github](https://github.com/nguegho/)
+  * NGUEGHO TIODONG ROBERTO LANDRY : [lien vers son github](https://github.com/ngueagho/)
   * DOMCHE WABO LYTHEVINE FRAICHENELLE : [lien vers son github](https://github.com/lythevinedomche/)
   * MFENJOU ANAS CHERIF : [lien vers son github](https://github.com/cherif2004/) 
 
